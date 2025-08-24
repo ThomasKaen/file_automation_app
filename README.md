@@ -101,5 +101,7 @@ Standard library only (shutil, pathlib, zipfile)
 
  Theming with ttkbootstrap
 
-📜 License
 
+📜 License: All Rights Reserved © 2025 ThomasKaen
+This project is for personal/portfolio use only.
+For commercial use or custom solutions, please contact me via Fiverr.
